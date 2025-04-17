@@ -3,8 +3,6 @@
 # Admob
 google.com, pub-1161918509539881, DIRECT, f08c47fec0942fa0
 
-admile.com, 359042, DIRECT 
-
 # Facebook
 facebook.com, 1283656832854937, DIRECT, c3e20eee3f780d68
 
@@ -1172,5 +1170,8 @@ zetaglobal.net,998,RESELLER
 zmaticoo.com,5135063,RESELLER
 zmaticoo.com,5135224,RESELLER
 zoomd.com,88478941,RESELLER
+
+#admile
+admile.com, 359092, DIRECT 
 
 # End
